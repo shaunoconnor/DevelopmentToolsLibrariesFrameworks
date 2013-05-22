@@ -10,28 +10,36 @@
 ### Dependency Management
 
 **Cocoapods**
+
 The best way to manage library dependencies in Objective-C projects.
+
 [cocoapods.org](http://cocoapods.org/)
 
 
 ### Build Distribution
 
 **Test Flight**
+
 A free testing service for mobile developers, managers and testers.
+
 [testflightapp.com](https://testflightapp.com/)
 
 
 ### General Tools
 
 **Nomad**
+
 World-class command line utilities for iOS development
+
 [nomad-cli.com](http://nomad-cli.com/)
 
 
 ### Asset Creation
 
 **Ferry**
+
 PSD Exporter for designers & developers
+
 [ferry.thedamarmada.com](http://ferry.thedamarmada.com/)
 
 

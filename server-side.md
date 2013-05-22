@@ -17,5 +17,7 @@
 *Frameworks add structure, something along the lines of MVC.*
 
 **Ruby on Rails** 
+
 Rails is a full-stack framework, meaning that it gives the web developer the ability to gather information from the web server, talk to or query the database, and render templates out of the box.
+
 [rubyonrails.org](http://rubyonrails.org/)
