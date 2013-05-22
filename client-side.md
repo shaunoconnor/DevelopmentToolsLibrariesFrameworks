@@ -1,4 +1,4 @@
-# Client-Side Web Development Tools, Libraries & Frameworks
+# Client-Side Development Tools, Libraries & Frameworks
 
 *Below are the tools, libraries & frameworks that you^ should use when building client-side web applications.*
 *^These are what I am currently using.*

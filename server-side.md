@@ -1,4 +1,4 @@
-# Server-Side Web Development Tools, Libraries & Frameworks
+# Server-Side Development Tools, Libraries & Frameworks
 
 *Below are the tools, libraries & frameworks that you^ should use when building server-side web applications.*
 *^These are what I am currently using.*
